@@ -1,6 +1,6 @@
-<p align="center">
- <img width="1300 src="public/apresentacao.gif">
-</p>
+<div align="center">
+ <img src="public/apresentacao.gif">
+</div>
 
 <p align="center">🎉
   <a href="#-sobre"> Sobre </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
