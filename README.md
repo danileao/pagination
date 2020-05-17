@@ -1,5 +1,5 @@
 <div align="center">
- <img src="public/apresentacao.gif">
+ <img width="1351" src="public/apresentacao.gif">
 </div>
 
 <p align="center">🎉
