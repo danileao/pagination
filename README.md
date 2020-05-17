@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
     <img src="public/apresentacao.gif">
 </h1>
 
