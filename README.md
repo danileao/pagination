@@ -1,5 +1,5 @@
 <h1 align="center">
-    <center> <img src="public/apresentacao.gif"></center>
+    <center> <img width="100" src="public/apresentacao.gif"></center>
 </h1>
 
 <p align="center">🎉
